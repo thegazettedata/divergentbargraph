@@ -1,0 +1,110 @@
+body {
+	font-family: 'Helvetica Neue', Helvetica, arial, sans-serif;
+	font-size: 14px;
+}
+
+.container {
+	width: 100%;
+}
+
+.atop-div {
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+	right: 7px;
+}
+
+.below-div {
+	text-align: center;
+	font-weight: bold;
+	position: relative;
+	right: 7px;
+}
+
+.labelContainer {
+	width: 100%;
+	font-size: 0.8em;
+	text-align: left;
+}
+
+.leftBarContainer {
+	width: 48%;
+	height: 25px;
+	background-color: lightgray;
+	float: left;
+}
+
+.leftBar {
+	background-color: #BA4D51;
+	float: right;
+	height: 25px;
+}
+
+.leftBarLabel {
+	color: white;
+	float: left;
+	padding: 4px 0px 4px 3px;
+	font-size: 0.85em;
+}
+
+.leftBarLabelOutside {
+	display: none;
+	float: right;
+	color: black;
+	padding: 4px 3px 4px 0px;
+	font-size: 0.85em;
+}
+
+.midLine {
+	background-color: black;
+	width: 2px;
+	height: 30px;
+	float: left;
+	position: relative;
+	top: -2px;
+}
+
+.rightBarContainer {
+	width: 48%;
+	height: 25px;
+	background-color: lightgray;
+	float: left;
+}
+
+.rightBar {
+	background-color: #859666;
+	float: left;
+	height: 25px;
+}
+
+.rightBarLabel {
+	color: white;
+	float: right;
+	padding: 4px 3px 4px 0px;
+	font-size: 0.85em;
+}
+
+p {
+	text-align: center;
+}
+
+.title {
+	font-weight:bold;
+	font-size: 1.2em;
+}
+
+.source {
+	margin-top: 20px;
+	text-align: right;
+	font-size: 0.9em;
+	padding-right: 4%;
+}
+
+.source a {
+	text-decoration: none;
+	color: steelblue;
+}
+
+.source a:hover {
+	text-decoration: underline;
+}

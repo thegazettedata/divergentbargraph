@@ -1,0 +1,16 @@
+// REPLACE WITH YOUR DATA, STORED AS THIS JSON FILE. ALSO CHANGE VAR NAME TO REFLECT DATA.
+var immIndustryJSON = [
+{"industry":"Agriculture, forestry, fishing and hunting, and mining","pct-foreign-born":4},
+{"industry":"Construction","pct-foreign-born":6.7},
+{"industry":"Manufacturing","pct-foreign-born":10.5},
+{"industry":"Wholesale trade","pct-foreign-born":4.3},
+{"industry":"Retail trade","pct-foreign-born":2.8},
+{"industry":"Transportation and warehousing, and utilities","pct-foreign-born":2.8},
+{"industry":"Information","pct-foreign-born":4.9},
+{"industry":"Finance and insurance, and real estate and rental and leasing","pct-foreign-born":3.3},
+{"industry":"Professional, scientific, management, administrative, and waste-management services","pct-foreign-born":5.3},
+{"industry":"Educational services, and health care and social assistance","pct-foreign-born":4.4},
+{"industry":"Arts, entertainment, recreation, accommodation, and food services","pct-foreign-born":7.3},
+{"industry":"Other services (except public administration)","pct-foreign-born":6.4},
+{"industry":"Public administration","pct-foreign-born":2.6}
+];
